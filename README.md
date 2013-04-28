@@ -5,10 +5,10 @@ Jean-Baptiste Pin - Programmeur client/serveur
 
 > *Ce document au format Markdown, sera plus agréable à lire sur Github.*
 
+## Contact
+
 jeanbaptiste.pin@gmail.com  
 514 451 1912  
-http://ca.linkedin.com/in/jbpin  
-http://twitter.com/jbpin  
 
 ## Compétences clés
 
@@ -53,3 +53,7 @@ Techno : Flex, Java, C++, Android, Smartcard
 
 **Maîtrise informatique** - Supinfo (Nice, Rennes, Paris) France, 2009
 
+## Plus d'informations
+
+http://ca.linkedin.com/in/jbpin  
+http://twitter.com/jbpin  
