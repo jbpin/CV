@@ -17,4 +17,4 @@ Très bonne connaissance des méthodologie Agile : Scrum, XP, Lean et Kanban
 
 ## Expériences professionelles
 
-**Taste Filter** - Montréal (*Nov 2012 - Présent*)
+**Taste Filter** - Montréal ( *Nov 2012 - Présent* )
