@@ -5,16 +5,16 @@ Jean-Baptiste Pin
 
 > *Ce document au format Markdown, sera plus agréable à lire sur Github.*
 
----
+/// Contact
 
 ## Compétences clés
 
 __Nodejs - MongoDB - Redis - Javascript - HTML5 - CSS3 - Architecture MVC - Git et SVN - Linux - Android__
 
-Très bonne connaissance des méthodologie Agile Scrum, XP, Lean et Kanban
+Très bonne connaissance des méthodologie Agile : Scrum, XP, Lean et Kanban
 
 
 
 ## Expériences professionelles
 
-Nov 2012 - Présent\ **Taste Filter** - *Montréal*
+**Taste Filter** - Montréal (*Nov 2012 - Présent*)
