@@ -15,12 +15,12 @@ Très bonne connaissance des méthodologie Agile : Scrum, XP, Lean et Kanban
 
 ## Projets Personnels
 
-* **Un train de retard** ([UTDR](http://www.untrainderetard.com/ "untrainderetard"))
-J'ai créer UTDR en 2011. L'objectif de ce site est de recenser les retards de train en France, et d'en faire le cumul. C'est un site d'information très aprécier avec près de 10000 visites mensuels.
+* **Un train de retard** ([untrainderetard.com](http://www.untrainderetard.com/ "untrainderetard.com"))
+J'ai créer UTDR en 2011. L'objectif de ce site est de recenser les retards de train en France, et d'en faire le cumul. C'est un site d'information très aprécié avec près de 10000 visites mensuels.
 Techno : Python, Node.js, PHP, REST service, Javascript/HTML5/CSS3, Web socket, MongoDB, Redis, ExpressJS
 
-* **Bulkies** ([UTDR](http://www.bulki.es/ "Bulkies"))
-Bulkies est un site communautaire qui permet de recensé les objets laissé sur les trottoires. C'est une application qui permet de recycler les encombrants et de promouvoir les ventes de garage. Ce projet est en cours de développement mais l'application android est déjà fonctionnelle et disponible sur [Google Play](https://play.google.com/store/apps/details?id=es.bulki.mobile&hl=fr "Bulkies")
+* **Bulkies** ([www.bulki.es](http://www.bulki.es/ "Bulkies"))
+Bulkies est un site communautaire qui permet de recenser les objets laissés sur les trottoirs. C'est une application qui a vocation à promouvoir le recyclage des encombrants. Ce projet est en cours de développement mais l'application Android est déjà fonctionnelle et disponible sur [Google Play](https://play.google.com/store/apps/details?id=es.bulki.mobile&hl=fr "Bulkies")
 Techno : MongoDB, PHP, Android
 
 
