@@ -19,7 +19,7 @@ Très bonne connaissance des méthodologie Agile : Scrum, XP, Lean et Kanban
 ## Projets Personnels
 
 * **Un train de retard** ([untrainderetard.com](http://www.untrainderetard.com/ "untrainderetard.com"))  
-J'ai créer UTDR en 2011. L'objectif de ce site est de recenser les retards de train en France, et d'en faire le cumul. C'est un site d'information très aprécié avec près de 10000 visites mensuels.  
+J'ai créé UTDR en 2011. L'objectif de ce site est de recenser les retards de train en France, et d'en faire le cumul. C'est un site d'information très aprécié avec près de 10000 visites mensuels.  
 Techno : Python, Node.js, PHP, REST service, Javascript/HTML5/CSS3, Web socket, MongoDB, Redis, ExpressJS
 
 * **Bulkies** ([www.bulki.es](http://www.bulki.es/ "Bulkies"))  
