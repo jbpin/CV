@@ -5,10 +5,10 @@ Jean-Baptiste Pin - Programmeur client/serveur
 
 > *Ce document au format Markdown, sera plus agréable à lire sur Github.*
 
-jeanbaptiste.pin@gmail.com
-514 451 1912
-ca.linkedin.com/in/jbpin
-twitter.com/jbpin
+jeanbaptiste.pin@gmail.com  
+514 451 1912  
+http://ca.linkedin.com/in/jbpin  
+http://twitter.com/jbpin  
 
 ## Compétences clés
 
