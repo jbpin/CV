@@ -8,7 +8,7 @@ Jean-Baptiste Pin - Programmeur client/serveur
 ## Contact
 
 jeanbaptiste.pin@gmail.com  
-514 451 1912  
+(514) 451-1912  
 
 ## Compétences clés
 
