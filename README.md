@@ -5,7 +5,16 @@ Jean-Baptiste Pin
 
 > *Ce document au format Markdown, sera plus agréable à lire sur Github.*
 
-/// Contact
+<table>
+	<tr>
+		<td>jeanbaptiste.pin@gmail.com</td>
+		<td>514 451 1912</td>
+	</tr>
+	<tr>
+		<td>ca.linkedin.com/in/jbpin/</td>
+		<td>twitter.com/jbpin</td>
+	</tr>
+</table>
 
 ## Compétences clés
 
@@ -16,11 +25,11 @@ Très bonne connaissance des méthodologie Agile : Scrum, XP, Lean et Kanban
 ## Projets Personnels
 
 * **Un train de retard** ([untrainderetard.com](http://www.untrainderetard.com/ "untrainderetard.com"))  
-J'ai créer UTDR en 2011. L'objectif de ce site est de recenser les retards de train en France, et d'en faire le cumul. C'est un site d'information très aprécié avec près de 10000 visites mensuels.
+J'ai créer UTDR en 2011. L'objectif de ce site est de recenser les retards de train en France, et d'en faire le cumul. C'est un site d'information très aprécié avec près de 10000 visites mensuels.  
 Techno : Python, Node.js, PHP, REST service, Javascript/HTML5/CSS3, Web socket, MongoDB, Redis, ExpressJS
 
 * **Bulkies** ([www.bulki.es](http://www.bulki.es/ "Bulkies"))  
-Bulkies est un site communautaire qui permet de recenser les objets laissés sur les trottoirs. C'est une application qui a vocation à promouvoir le recyclage des encombrants. Ce projet est en cours de développement mais l'application Android est déjà fonctionnelle et disponible sur [Google Play](https://play.google.com/store/apps/details?id=es.bulki.mobile&hl=fr "Bulkies")
+Bulkies est un site communautaire qui permet de recenser les objets laissés sur les trottoirs. C'est une application qui a vocation à promouvoir le recyclage des encombrants. Ce projet est en cours de développement mais l'application Android est déjà fonctionnelle et disponible sur [Google Play](https://play.google.com/store/apps/details?id=es.bulki.mobile&hl=fr "Bulkies")  
 Techno : MongoDB, PHP, Android
 
 
