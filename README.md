@@ -1,20 +1,14 @@
-Jean-Baptiste Pin
+Jean-Baptiste Pin - Programmeur client/serveur
 ==
 
 > Afin de compléter ma candidature de vendredi, vous trouverez dans ce document les points importants de mon CV ainsi que des détails sur mes réalisation. 
 
 > *Ce document au format Markdown, sera plus agréable à lire sur Github.*
 
-<table>
-	<tr>
-		<td>jeanbaptiste.pin@gmail.com</td>
-		<td>514 451 1912</td>
-	</tr>
-	<tr>
-		<td>ca.linkedin.com/in/jbpin/</td>
-		<td>twitter.com/jbpin</td>
-	</tr>
-</table>
+jeanbaptiste.pin@gmail.com
+514 451 1912
+ca.linkedin.com/in/jbpin
+twitter.com/jbpin
 
 ## Compétences clés
 
