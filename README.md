@@ -42,7 +42,7 @@ Techno : iOS, Android, Java, Web, SQL
 * Animation des réunions SCRUM
 * Développement Android - IOS - Web
 
-####Ingénieur R&D
+####Ingénieur R&D/Développeur AS3/Flex/AIR
 **Snapper Service Limited** - Wellington (NZ)/Télétravail - *Juillet 2011 - Avril 2012*  
 Techno : Flex, Java, C++, Android, Smartcard
 * Refonte logiciel , mise en place des principes MVC
