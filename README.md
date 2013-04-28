@@ -28,22 +28,22 @@ Techno : MongoDB, PHP, Android
 
 ## Expériences professionelles
 
+####Architecte logiciel
 **Taste Filter** - Montréal (CA)  - *Nov 2012 - Présent*  
-####Architecte logiciel  
 Techno : Mono touch, C#, HTML/CSS/JS - Node js - Neo4j  
 * Mise en place des methodolige Agile
 * Animation des réunions SCRUM
 * Développement C#, Javascript, Web, et serveur
 
+####Ingénieur R&D
 **Beepeers** - Sophia Antipolis (FR) - *Jan 2012 - Juin 2012*  
-####Ingénieur R&D  
 Techno : iOS, Android, Java, Web, SQL  
 * Mise en place des methodolige Agile
 * Animation des réunions SCRUM
 * Développement Android - IOS - Web
 
+####Ingénieur R&D
 **Snapper Service Limited** - Wellington (NZ)/Télétravail - *Juillet 2011 - Avril 2012*  
-Ingénieur R&D  
 Techno : Flex, Java, C++, Android, Smartcard
 * Refonte logiciel , mise en place des principes MVC
 * Developpement de solution NFC pour paiement mobile
